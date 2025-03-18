@@ -13,7 +13,7 @@ public class AdvanceDialogueManager
     }
 }
 
-
+//update this script to use the DialogueActor enum
 public enum DialogueActor
 {
     Kakek,
