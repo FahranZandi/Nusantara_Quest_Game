@@ -4,6 +4,7 @@ public class DialogueKakekMuseum : MonoBehaviour
 {
     private Transform player;
     private SpriteRenderer SpeechBubbleRenderer;
+    //test upload
 
     void Start()
     {
